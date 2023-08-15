@@ -1,4 +1,4 @@
-👋 Hello, there! I'm Alex. I'm actively learning full-stack development alongside my professional commitments while seeking opportunities to collaborate and contribute.
+👋 Hello, there! I'm Alex. I'm actively learning full-stack development alongside my professional commitments.
 
 
 
