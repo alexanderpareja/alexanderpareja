@@ -6,10 +6,6 @@
 
 ---
 
-### My Style
-
-As a forward-thinking problem solver, I approach challenges with a unique blend of creativity and technical curiosity. I'm dedicated to leveraging every tool in the tech arsenal to achieve goals and drive innovation.
-
 ### My Toolbox
 
 - **Languages**: Python, Bash
