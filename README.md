@@ -1,5 +1,3 @@
-# About Me
-
 **Hello, I'm Alex**
 
 *Linux Enthusiast | Technologist*
