@@ -1,6 +1,6 @@
-**Hello, I'm Alex**
+### **Hello, I'm Alex**
 
-*Linux Enthusiast | Technologist*
+*Linux Enthusiast, Technologist*
 
 ---
 
