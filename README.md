@@ -1,16 +1,7 @@
 ### **Hello, I'm Alex**
 
 *Linux Enthusiast, Technologist*
-
 ---
-
-### My Toolbox
-
-- **Languages**: Python, Bash
-- **Systems**: Arch Linux, Ubuntu, *(i want to learn Nix Os)*
-- **Software**: VS Codium, NeoVim, Obsidian, Kitty, Firefox
-- **Version Control**: Git, GitHub
-
 ### Contact Me
 
 - [Website](http://www.alexpareja.com)
