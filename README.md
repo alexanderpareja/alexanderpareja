@@ -1,6 +1,3 @@
-### **Hello, I'm Alex**
-
-*Linux Enthusiast, Technologist*
 ---
 ### Contact Me
 
