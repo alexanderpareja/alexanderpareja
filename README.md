@@ -33,7 +33,7 @@ IT support consultant by day, Linux enthusiast by night. I work primarily with W
   
 ---
 
-## 📫 Contact  
+## 📫 Links  
 - 🌐 [alexpareja.com](https://alexpareja.com)  
 - 🦋 [Bluesky](https://bsky.app/profile/alexpareja.com)  
 - 📜 [Credly](https://www.credly.com/users/alexander-pareja)
