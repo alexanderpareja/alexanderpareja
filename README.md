@@ -28,7 +28,6 @@ IT support consultant by day, Linux enthusiast by night. I work primarily with W
 ---
 
 ## 🧭 Right Now
-- Studying for the LPI Linux Essentials certification
 - Reading [*A Mind For Numbers* by Barbara Oakley, PhD](https://barbaraoakley.com/books/a-mind-for-numbers/)
   
 ---
