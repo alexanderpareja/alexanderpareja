@@ -28,7 +28,7 @@ IT support consultant by day, Linux enthusiast by night. I work primarily with W
 ---
 
 ## 🧭 Right Now
-- Reading [*A Mind For Numbers* by Barbara Oakley, PhD](https://barbaraoakley.com/books/a-mind-for-numbers/)
+- Reading Little Brother by Cory Doctorow.
   
 ---
 
