@@ -24,17 +24,3 @@
 ## 👤 About Me
 
 IT support consultant by day, Linux enthusiast by night. I work primarily with Windows systems in professional settings, but I spend my downtime exploring open-source tools, customizing Linux environments, and hacking together personal projects when inspiration hits. Outside of tech, I enjoy reading, gaming, and chasing the occasional side quest into something new.
-
----
-
-## 🧭 Right Now
-- Reading Little Brother by Cory Doctorow.
-  
----
-
-## 🔗 Links  
-- 🌐 [alexpareja.com](https://alexpareja.com)  
-- 🦋 [Bluesky](https://bsky.app/profile/alexpareja.com)  
-- 📜 [Credly](https://www.credly.com/users/alexander-pareja)
-
----
